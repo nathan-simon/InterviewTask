@@ -7,4 +7,4 @@ The following repository is submitted as part of the application process for Pro
 - Run `npm install` in the terminal to install all the necessary packages.
 - Run `npm run dev` in the terminal and then visit the localhost page generated.
 
-- ![Interview Task Example](InterviewTaskExample.png)
+![Interview Task Example](InterviewTaskExample.png)
