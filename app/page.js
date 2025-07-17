@@ -7,7 +7,6 @@ export default function Page() {
   const [isProcessing, setIsProcessing] = useState(false);
   const [isTextDisabled, setIsTextDisabled] = useState(false);
   const [prompt, setPrompt] = useState("");
-  const [response, setResponse] = useState("");
   const [state, formAction, pending] = useActionState(submitRequest, { prompt: '' })
 
   useEffect(() => {
